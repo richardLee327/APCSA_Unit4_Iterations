@@ -1,4 +1,4 @@
-import org.ietf.jgss.GSSName;
+package Labs;
 
 import java.util.Scanner;
 
